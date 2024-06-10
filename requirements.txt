@@ -5,3 +5,4 @@ nltk
 wordcloud
 sentence-transformers
 scikit-learn
+streamlit
