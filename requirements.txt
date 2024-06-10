@@ -6,3 +6,4 @@ wordcloud
 sentence-transformers
 scikit-learn
 streamlit
+faiss-cpu
